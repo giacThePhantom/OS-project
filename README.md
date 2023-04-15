@@ -1,9 +1,9 @@
-# LabSO-AA_2019_2020--201856_187968_202002_188009
+# Laboratorio sistemi operativi
 
 mail gruppo: giacomo.fantoni@studenti.unitn.it
 
 ## Gruppo
-Fantoni Giacomo	201856
+Fantoni Giacomo
 Favari Ettore
 Gastaldello Filippo
 Lamorgese Giuseppe
